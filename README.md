@@ -1,3 +1,4 @@
 # some-blog
-Blog built width Flask
-A tutorial project to understand how GIT works
+Blog built width Flask.
+
+Educational project. Loaded to understand how GIT works
